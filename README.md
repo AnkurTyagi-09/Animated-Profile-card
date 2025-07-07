@@ -1,4 +1,4 @@
-                                 🌟 Animated Profile Card
+🌟 Animated Profile Card
 An elegant and interactive animated profile card built using HTML, CSS, and Font Awesome icons. Ideal for personal portfolios, resumes, and social profiles.
 
 <!-- Replace with actual preview or demo GIF if hosted -->
